@@ -1,0 +1,23 @@
+2023-02-12T00:10:36.671830000 0.082940s notice: Recursively removing directory /Users/nabieu/Desktop/flask-rethink2/app/rethinkdb_data/tmp
+2023-02-12T00:10:36.676019000 0.087129s notice: Initializing directory /Users/nabieu/Desktop/flask-rethink2/app/rethinkdb_data
+2023-02-12T00:10:36.676269000 0.087378s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/nabieu/Desktop/flask-rethink2/app/rethinkdb_data' did not already exist or is empty.)
+2023-02-12T00:10:36.676352000 0.087461s notice: Running rethinkdb 2.4.3 (x86_64-apple-darwin22.1.0) (CLANG 14.0.0 (clang-1400.0.29.202))...
+2023-02-12T00:10:36.708381000 0.119491s notice: Running on Darwin 22.3.0 x86_64
+2023-02-12T00:10:36.708473000 0.119583s notice: Loading data from directory /Users/nabieu/Desktop/flask-rethink2/app/rethinkdb_data
+2023-02-12T00:10:36.907954000 0.319064s info: Automatically using cache size of 134 MB
+2023-02-12T00:10:36.910779000 0.321889s notice: Listening for intracluster connections on port 29015
+2023-02-12T00:10:36.913079000 0.324189s notice: Listening for client driver connections on port 28015
+2023-02-12T00:10:36.913144000 0.324254s notice: Listening for administrative HTTP connections on port 8080
+2023-02-12T00:10:36.913148000 0.324258s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2023-02-12T00:10:36.913153000 0.324263s notice: Listening on driver addresses: 127.0.0.1, ::1
+2023-02-12T00:10:36.913160000 0.324270s notice: Listening on http addresses: 127.0.0.1, ::1
+2023-02-12T00:10:36.913168000 0.324277s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2023-02-12T00:10:36.913173000 0.324283s notice: Server ready, "MacBook_Pro_4_local_cxj" 806bb230-b97d-492a-bf1a-02991fce2251
+2023-02-12T00:10:49.706029000 13.117163s info: Table fbec2061-f1ec-4cd9-8794-34edd6df37ec: Starting a new Raft election for term 1.
+2023-02-12T00:10:49.708818000 13.119952s info: Table fbec2061-f1ec-4cd9-8794-34edd6df37ec: Added replica on this server.
+2023-02-12T00:10:49.747263000 13.158397s info: Table fbec2061-f1ec-4cd9-8794-34edd6df37ec: This server is Raft leader for term 1. Latest log index is 0.
+2023-02-12T00:59:27.064054000 2930.460276s notice: Removing file /Users/nabieu/Desktop/flask-rethink2/app/rethinkdb_data/fbec2061-f1ec-4cd9-8794-34edd6df37ec
+2023-02-12T00:59:27.064061000 2930.460283s info: Table fbec2061-f1ec-4cd9-8794-34edd6df37ec: Deleted the table.
+2023-02-12T01:07:49.566433000 3432.898943s info: Table c3af6056-5caf-4124-8789-1c148308aab4: Starting a new Raft election for term 1.
+2023-02-12T01:07:49.566639000 3432.899149s info: Table c3af6056-5caf-4124-8789-1c148308aab4: Added replica on this server.
+2023-02-12T01:07:49.606086000 3432.938596s info: Table c3af6056-5caf-4124-8789-1c148308aab4: This server is Raft leader for term 1. Latest log index is 0.
